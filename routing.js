@@ -6,7 +6,9 @@ contents={
 
 function rendering(){
   for (let key in contents){
-    document.getElementById(key)=contents[key];
+    console.log(key)
+    console.log(contents[key])
+    //document.getElementById(key)=contents[key];
   }
 }
 
