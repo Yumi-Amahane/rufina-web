@@ -1,4 +1,4 @@
-contents={
+var contents={
   TITLE: "Rufina-Web-top",
   HEADER: "HEADER",
   CONTENTS: "テスト用コンテンツ",
@@ -10,4 +10,5 @@ function rendering(){
   }
 }
 
+console.log(contents)
 rendering()
