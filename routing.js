@@ -9,3 +9,5 @@ function rendering(){
     document.getElementById(key)=contents[key];
   }
 }
+
+rendering()
