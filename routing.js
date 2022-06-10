@@ -1,4 +1,4 @@
-var contents={
+contents={
   TITLE: "Rufina-Web-top",
   HEADER: "HEADER",
   CONTENTS: "テスト用コンテンツ",
