@@ -8,7 +8,7 @@ function rendering(){
   for (let key in contents){
     console.log(key)
     console.log(contents[key])
-    document.getElementById(key).innerHTML()=contents[key];
+    document.getElementById(key).innerHTML=contents[key];
   }
 }
 
